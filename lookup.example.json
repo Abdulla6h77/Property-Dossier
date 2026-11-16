@@ -1,0 +1,19 @@
+{
+  "subject": "1 Sample Street",
+  "official_hosts": [
+    "parcels.example.org",
+    "permits.example.org",
+    "records.example.org"
+  ],
+  "sources": [
+    {
+      "url": "https://parcels.example.org/search"
+    },
+    {
+      "url": "https://permits.example.org/search"
+    },
+    {
+      "url": "https://records.example.org/search"
+    }
+  ]
+}

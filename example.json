@@ -1,0 +1,23 @@
+{
+  "subject": "parcel-fixture",
+  "parcels": [
+    {
+      "parcel_id": "parcel-fixture",
+      "address": "1 Sample Street"
+    }
+  ],
+  "official_hosts": [
+    "county.example.org"
+  ],
+  "previous_permit_ids": [],
+  "records": [
+    {
+      "category": "permit",
+      "parcel_id": "parcel-fixture",
+      "record_id": "permit-1",
+      "summary": "Synthetic permit example",
+      "source_url": "https://county.example.org/fixture",
+      "checked_date": "2026-11-12"
+    }
+  ]
+}

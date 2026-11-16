@@ -1,0 +1,13 @@
+{
+  "subject": "350 Fifth Avenue, Manhattan, New York, NY",
+  "official_hosts": [
+    "propertyinformationportal.nyc.gov",
+    "zola.planning.nyc.gov",
+    "data.cityofnewyork.us"
+  ],
+  "sources": [
+    {"url": "https://propertyinformationportal.nyc.gov/"},
+    {"url": "https://zola.planning.nyc.gov/"},
+    {"url": "https://data.cityofnewyork.us/d/rbx6-tga4"}
+  ]
+}
